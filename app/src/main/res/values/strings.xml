@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="start">開始</string>
+    <string name="cancel">キャンセル</string>
+    <string name="pose">一時停止</string>
+    <string name="restart">再開</string>
+    <string name="hour">時間</string>
+    <string name="min">分</string>
+    <string name="sec">秒</string>
+</resources>
